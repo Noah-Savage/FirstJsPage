@@ -1,0 +1,28 @@
+<script>
+
+function this_build1(){
+  var desc = "Ryzen 5 1600, MSI GTX 970, 8GB Corsair Vengeance @ 3000MHz";
+  alert(desc);
+}
+function this_build2(){
+  var desc = "Ryzen 7 2700X, EVGA GTX 1070ti, 16GB Gammix @ 3200MHz";
+  alert(desc);
+}
+function this_build3(){
+  var desc = "Ryzen 7 2700X, EVGA RTX 2070 XC Ultra, " +
+  "32GB TridentZ RGB @ 3200MHz";
+  alert(desc);
+}
+
+</script>
+
+<html>
+<p> I have built several computers for both myself and other friends in my years of PC <br>
+building. Below are the three major iterations of my personal machine and how it has evolved. <br>
+In addition to these are at least 5 to 6 machines made with or for personal friends. </p>
+<p style="color: red"><b>Build 1:  <input type="button" value="Build Details" onClick=this_build1()><br>
+<br>
+Build 2:  <input type="button" value="Build Details" onClick=this_build2()><br>
+<br>
+Build 3:  <input type="button" value="Build Details" onClick=this_build3()><br></p></b>
+</html>
