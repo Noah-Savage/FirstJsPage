@@ -19,10 +19,12 @@ function this_build3(){
 <html>
 <p> I have built several computers for both myself and other friends in my years of PC <br>
 building. Below are the three major iterations of my personal machine and how it has evolved. <br>
-In addition to these are at least 5 to 6 machines made with or for personal friends. </p>
-<p style="color: red"><b>Build 1:  <input type="button" value="Build Details" onClick=this_build1()><br>
-<br>
-Build 2:  <input type="button" value="Build Details" onClick=this_build2()><br>
-<br>
+In addition to these are at least 5 to 6 machines made with or for personal friends. <br><br>
+As you can most likely see from my builds, I am quite fond of Ryzen-based systems as <br>
+it gives the consumer a much better value for performance than Intel can offer. <br>
+I also like the higher thread counts for less money as I personally like to stream <br>
+on Twitch and utilize the extra cores and threads for Software x264 encoding.</p>
+<p style="color: red"><b>Build 1:  <input type="button" value="Build Details" onClick=this_build1()>
+Build 2:  <input type="button" value="Build Details" onClick=this_build2()>
 Build 3:  <input type="button" value="Build Details" onClick=this_build3()><br></p></b>
 </html>
