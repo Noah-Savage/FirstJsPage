@@ -48,8 +48,8 @@ on Twitch and utilize the extra cores and threads for Software x264 encoding.</p
 <p style="color: red"><b>
 Build 1:  <button id="close-image" onClick=this_build1() style="height:200px;width:315px"><img src="https://i.imgur.com/cVVyAIF.jpg" height="185" width="300"></button><br>
 
-Build 2:  <button id="close-image" onClick=this_build1() style="height:200px;width:205px"><img src="https://i.imgur.com/AwmxwEE.jpg" height="185" width="190"></button><br>
+Build 2:  <button id="close-image" onClick=this_build2() style="height:200px;width:205px"><img src="https://i.imgur.com/AwmxwEE.jpg" height="185" width="190"></button><br>
 
-Build 3:  <button id="close-image" onClick=this_build1() style="height:200px;width:315px"><img src="https://i.imgur.com/08TsIar.jpg" height="185" width="300"></button><br></p></b><center>
+Build 3:  <button id="close-image" onClick=this_build3() style="height:200px;width:315px"><img src="https://i.imgur.com/08TsIar.jpg" height="185" width="300"></button><br></p></b><center>
 
 </html>
